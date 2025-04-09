@@ -33,5 +33,5 @@ Per un corretto caricamento di file esterni:
   - Colonne successive: elementi dell'embedding (tipicamente nominate da `0` a `n-1`)
 
 ### 6. Visualizzazione Risultati
-Utilizzare `create_tables_and_histogram` per generare tabelle comparative in formato latex e reare istogrammi dei risultati - (Sviluppo futuro) Automatizzare l'elaborazione usando il ciclo `for` commentato<br>
-Eseguire `overall_best_results` per identificare il modello migliore per ciascuna coppia di tipi
+Utilizzare `create_tables_and_histogram` per generare tabelle comparative in formato latex e creare istogrammi dei risultati - (Sviluppo futuro: Automatizzare l'elaborazione usando il ciclo `for` commentato<br>
+Eseguire `overall_best_results` per identificare il modello migliore per ciascuna coppia di tipi)
